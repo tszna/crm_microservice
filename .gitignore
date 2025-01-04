@@ -1,0 +1,12 @@
+.mvn/
+.vscode/
+target/
+.classpath
+.project
+__pycache__/
+venv/
+backend/time-service/obj/
+bin/
+dist/
+node_modules/
+.angular/

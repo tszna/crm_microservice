@@ -1,0 +1,6 @@
+@time_service_HostAddress = http://localhost:5056
+
+GET {{time_service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
