@@ -1,0 +1,6 @@
+{
+	"worktime": "http://localhost:4200/remoteEntry.json",
+	"auth": "http://localhost:4200/remoteEntry.json",
+	"weeklySummary": "http://localhost:4200/remoteEntry.json",
+	"calendar": "http://localhost:4200/remoteEntry.json"
+}
