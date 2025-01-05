@@ -10,3 +10,4 @@ bin/
 dist/
 node_modules/
 .angular/
+tsconfig.federation.json
