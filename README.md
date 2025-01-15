@@ -13,7 +13,7 @@ Podsumowanie tygodnia:
 Kalendarz:
 <img src="https://i.imgur.com/6qX2ee5.gif">
 <h4>Uruchomienie projektu</h4>
-W pierwszej kolejności należy sprawdzić konfigurację bazy danych w pliku backend\authentication\src\main\resources\application.properties i upewnić się, że baza danych uruchomiona na komputerze zgadza się z tą konfiguracją, następnie w folderze backend\authentication należy uruchomić komendę:
+W pierwszej kolejności należy sprawdzić konfigurację bazy danych w pliku backend\authentication\src\main\resources\application.properties i upewnić się, że baza danych uruchomiona na komputerze zgadza się z tą konfiguracją, następnie w folderze backend\authentication należy w powershell uruchomić komendę:
 <pre><code>mvn clean install</code></pre>
 Następnie należy w folderze backend\calendar-service uruchomić komendy:
 <pre><code>python -m venv venv</code></pre>
